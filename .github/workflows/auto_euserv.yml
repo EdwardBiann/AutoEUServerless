@@ -1,4 +1,4 @@
-name: Auto EUserv
+name: AutoEUServerless
 
 on:
   schedule:
